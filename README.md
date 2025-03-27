@@ -4,7 +4,7 @@
 **Symbol**: RECON  
 **Type**: ERC-721 NFT  
 **Chain**: zkSync Era Mainnet  
-**Contract Address**: `0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E`
+**Contract Address**: `0x3181924E7767B1d0C4E952A6f55248e626214c1f`
 
 ---
 
@@ -21,7 +21,7 @@ It enables secure reconciliation, proforma invoicing, and emergency logistics du
 
 ## Metadata Location
 
-The associated metadata JSON file for this token is located at: tokens/era/0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E.json
+The associated metadata JSON file for this token is located at: tokens/era/0x3181924E7767B1d0C4E952A6f55248e626214c1f.json
 
 This format aligns with zkSync Era token registry standards for NFT indexing.
 
