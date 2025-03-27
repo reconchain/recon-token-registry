@@ -35,8 +35,6 @@ This repository follows the [zkSync Era Token Registry Standard](https://github.
 - NFT explorers
 - DeFi and analytics platforms
 
-Submitting your NFT here improves visibility across the zkSync ecosystem.
-
 ---
 
 ## Website
