@@ -1,0 +1,21 @@
+{
+  "name": "RECON",
+  "symbol": "RECON",
+  "type": "ERC721",
+  "decimals": 0,
+  "address": "0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E",
+  "chainId": 324,
+  "logoURI": "https://reconchain.com/assets/recon-logo.png",
+  "description": "RECON utility NFT for use in emergency reconciliation and proforma invoicing, created by Recon Chain.",
+  "website": "https://reconchain.com",
+  "tags": [
+    "nft",
+    "utility",
+    "recon-chain",
+    "crisis-management"
+  ],
+  "contact": {
+    "email": "service@reconchain.com",
+    "github": "https://github.com/reconchain"
+  }
+}
