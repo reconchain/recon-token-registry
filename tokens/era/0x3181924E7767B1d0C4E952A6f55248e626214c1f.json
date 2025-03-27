@@ -4,7 +4,7 @@
   "type": "ERC721",
   "version": "v1",
   "decimals": 0,
-  "address": "0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E",
+  "address": "0x3181924E7767B1d0C4E952A6f55248e626214c1f",
   "chainId": 324,
   "logoURI": "https://reconchain.com/assets/recon-logo.png",
   "description": "RECON utility NFT used for emergency reconciliation and proforma invoicing within the Recon Chain platform.",
