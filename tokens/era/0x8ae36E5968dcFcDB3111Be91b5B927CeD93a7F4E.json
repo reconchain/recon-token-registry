@@ -2,11 +2,23 @@
   "name": "RECON",
   "symbol": "RECON",
   "type": "ERC721",
+  "version": "v1",
   "decimals": 0,
   "address": "0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E",
   "chainId": 324,
   "logoURI": "https://reconchain.com/assets/recon-logo.png",
-  "description": "RECON utility NFT for use in emergency reconciliation and proforma invoicing, created by Recon Chain.",
+  "description": "RECON utility NFT used for emergency reconciliation and proforma invoicing within the Recon Chain platform.",
+  "features": [
+    "non-transferrable outside whitelisted addresses",
+    "minting controlled by Recon Chain platform",
+    "distributed to Tangem hardware wallets",
+    "no upgradeability (v1 is immutable)"
+  ],
+  "deployment": {
+    "date": "2025-03-27",
+    "deployer": "0x9d749171EB6307AB69d0dfe0944914843A70a956",
+    "owner": "0xFE4176ea33fdf32411E9bCb1D9bC09ceAEEA0eE1"
+  },
   "website": "https://reconchain.com",
   "tags": [
     "nft",
@@ -17,5 +29,6 @@
   "contact": {
     "email": "service@reconchain.com",
     "github": "https://github.com/reconchain"
-  }
+  },
+  "source": "https://github.com/reconchain/recon-token-registry"
 }

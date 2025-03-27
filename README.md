@@ -48,7 +48,7 @@ This repository follows the [zkSync Era Token Registry Standard](https://github.
 Controlled by **Recon Chain AB, Sweden**
 
 📧 Email: [service@reconchain.com](mailto:service@reconchain.com)  
-📁 GitHub: [github.com/reconchain](https://github.com/reconchain)
+📁 GitHub: [github.com/reconchain](https://github.com/reconchain/recon-token-registry)
 
 ---
 
