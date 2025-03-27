@@ -4,19 +4,56 @@
 **Symbol**: RECON  
 **Type**: ERC-721 NFT  
 **Chain**: zkSync Era Mainnet  
-**Contract Address**: 0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E
+**Contract Address**: `0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E`
+
+---
 
 ## Description
 
-The RECON utility NFT is used for reconciliation, proforma invoicing, and crisis logistics within the Recon Chain framework.  
-Tokens are non-transferrable outside whitelisted internal entities.  
-Minting is managed by the core platform and distributed to trusted wallets including Tangem hardware wallets.
+The RECON utility NFT is designed for use within the **Recon Chain** framework.  
+It enables secure reconciliation, proforma invoicing, and emergency logistics during crises.
+
+- Tokens are **non-transferrable** to external wallets.
+- Only **whitelisted internal wallets** can receive or send RECON NFTs.
+- Minting is controlled by the platform and issued to trusted agents (e.g. hardware wallets such as Tangem).
+
+---
+
+## Metadata Location
+
+The associated metadata JSON file for this token is located at: tokens/era/0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E.json
+
+This format aligns with zkSync Era token registry standards for NFT indexing.
+
+---
+
+## zkSync Era Registry Standard
+
+This repository follows the [zkSync Era Token Registry Standard](https://github.com/matter-labs/zksync-token-list), used by:
+
+- Wallet providers (e.g. Argent, Rabby, Zerion)
+- NFT explorers
+- DeFi and analytics platforms
+
+Submitting your NFT here improves visibility across the zkSync ecosystem.
+
+---
 
 ## Website
 
 🔗 [https://reconchain.com](https://reconchain.com)
 
+---
+
 ## Contact
 
-📧 Email: service@reconchain.com  
-📁 GitHub: https://github.com/reconchain/recon-token-registry
+Controlled by **Recon Chain AB, Sweden**
+
+📧 Email: [service@reconchain.com](mailto:service@reconchain.com)  
+📁 GitHub: [github.com/reconchain](https://github.com/reconchain)
+
+---
+
+## Tags
+
+nft, utility, recon-chain, crisis-management, zkSync, reconciliation
