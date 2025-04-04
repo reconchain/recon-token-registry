@@ -6,7 +6,7 @@
   "decimals": 0,
   "address": "0xAE6148B98Fb741B7a081f2a8F829cba774fc3b14",
   "chainId": 324,
-  "logoURI": "https://reconchain.com/assets/recon-logo.png",
+  "logoURI": "https://reconchain.com/assets/recon-chain-green.svg",
   "description": "RECON utility NFT used for emergency reconciliation and proforma invoicing within the Recon Chain platform.",
   "features": [
     "non-transferrable outside whitelisted addresses",
